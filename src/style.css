@@ -1,0 +1,11 @@
+body {
+    background-color: lightyellow;
+}
+
+#homeimage {
+    background-image: url("./table.jpg");
+    height: 500px;
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+}
